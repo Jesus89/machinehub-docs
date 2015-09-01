@@ -3,21 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to machinehub's documentation!
-======================================
+Welcome to machinehub
+=====================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   developer/install
-   developer/run
-
-
-
-Indices and tables
-==================
-
-* :ref:`search`
-
+   machinehub
+   gettingstarted
+   release
+   developer
