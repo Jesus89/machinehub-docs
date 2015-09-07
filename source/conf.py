@@ -121,6 +121,8 @@ html_theme_options = {
     'github_user': 'bqlabs',
     'github_repo': 'machinehub',
     'github_banner': 'true',
+    'github_type': 'star',
+    #  'travis_button': 'true'
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
